@@ -1,0 +1,57 @@
+[submodule "1.basic-commits"]
+	path = 1.basic-commits
+	url = ./1.basic-commits
+[submodule "2.basic-staging"]
+	path = 2.basic-staging
+	url = ./2.basic-staging
+[submodule "3.basic-branching"]
+	path = 3.basic-branching
+	url = ./3.basic-branching
+[submodule "4.ff-merge"]
+	path = 4.ff-merge
+	url = ./4.ff-merge
+[submodule "5.3-way-merge"]
+	path = 5.3-way-merge
+	url = ./5.3-way-merge
+[submodule "10.reset"]
+	path = 10.reset
+	url = ./10.reset
+[submodule "11.basic-cleaning"]
+	path = 11.basic-cleaning
+	url = ./11.basic-cleaning
+[submodule "12.amend"]
+	path = 12.amend
+	url = ./12.amend
+[submodule "13.reorder-history"]
+	path = 13.reorder-history
+	url = ./13.reorder-history
+[submodule "14.squash"]
+	path = 14.squash
+	url = ./14.squash
+[submodule "15.advanced-rebase-i"]
+	path = 15.advanced-rebase-i
+	url = ./15.advanced-rebase-i
+[submodule "16.basic-stashing"]
+	path = 16.basic-stashing
+	url = ./16.basic-stashing
+[submodule "17.ignore"]
+	path = 17.ignore
+	url = ./17.ignore
+[submodule "18.sub-modules"]
+	path = 18.sub-modules
+	url = ./18.sub-modules
+[submodule "19.git-tag"]
+	path = 19.git-tag
+	url = ./19.git-tag
+[submodule "6.merge-conflict"]
+	path = 6.merge-conflict
+	url = ./6.merge-conflict
+[submodule "7.merge-sort"]
+	path = 7.merge-sort
+	url = ./7.merge-sort
+[submodule "9.basic-revert"]
+	path = 9.basic-revert
+	url = ./9.basic-revert
+[submodule "8.rebase-branch"]
+	path = 8.rebase-branch
+	url = ./8.rebase-branch
